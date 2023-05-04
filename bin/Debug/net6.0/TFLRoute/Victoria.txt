@@ -1,0 +1,8 @@
+﻿Euston, Warren Street = 9
+Warren Street, Oxford Circus = 18
+Oxford Circus, Green Park = 15
+Green Park, Victoria = 19
+Victoria,Pimlico = 12
+Pimlico,Vauxhall = 18
+
+

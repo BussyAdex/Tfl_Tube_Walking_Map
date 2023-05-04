@@ -1,0 +1,15 @@
+﻿Elephant and Castle, Lambeth North = 18
+Lambeth North, Waterloo = 9
+Waterloo, Embankment = 6 
+Embankment, Charing Cross = 3 
+Charing Cross, Piccadilly Circus = 11 
+Piccadilly Circus, Oxford Circus = 12 
+Oxford Circus, Regents Park = 15 
+Regents Park, Baker Street = 10
+Baker Street, Marylebone = 6 
+Marylebone, Edgeware Road (Bakerloo Line) = 7
+Edgware Road (Bakerloo Line), Paddington = 11
+
+									
+
+
