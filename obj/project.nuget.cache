@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgtGZ3qXJah0TeHcv8MJILnzT+S32dmn5TCRDBvTekXnyHj9nU30yYZnX4xvwofNF5RkinTqEkNrzFMXqJs2Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fire amy\\Documents\\TfL_Walking_Distance-Version3-20230505T215903Z-001\\TfL_Walking_Distance-Version3\\TfL_Walking_Distance-Version3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fire amy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\fire amy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\fire amy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\fire amy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+﻿Baker Street, Bond Street = 16
+Bond Street, Green Park = 14 
+Green Park, Westter = 21
+Westter, Waterloo = 17
+Waterloo, Southwark = 8 
+Southwark, London Bridge = 19
+		

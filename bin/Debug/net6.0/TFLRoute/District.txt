@@ -1,0 +1,20 @@
+Edgware Road (Circle Line), Paddington = 10
+Paddington, Bayswater = 17
+Bayswater, Notting Hill Gate = 10
+Notting Hill Gate, High Street Kensington = 13
+High Street Kensington, Earls Court = 18
+Earls Court, Gloucester Road = 12
+Gloucester Road, South Kensington = 8
+South Kensington, Sloane Square = 17
+Sloane Square, Victoria = 13
+Victoria, St. James's Park = 11
+St. James's Park, Westter = 11
+Westter, Embankment = 10
+Embankment, Temple = 9
+Temple, Blackfriars = 10
+Blackfriars, Mansion House = 10
+Mansion House, Cannon Street = 4
+Cannon Street, Monument = 5
+Monument, Tower Hill = 10
+Tower Hill, Aldgate East = 10
+

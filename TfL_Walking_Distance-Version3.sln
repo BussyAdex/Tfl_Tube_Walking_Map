@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfL_Walking_Distance-Version3", "TfL_Walking_Distance-Version3.csproj", "{27594345-1F0B-4940-B31F-DE5A5FA4D8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27594345-1F0B-4940-B31F-DE5A5FA4D8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27594345-1F0B-4940-B31F-DE5A5FA4D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27594345-1F0B-4940-B31F-DE5A5FA4D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27594345-1F0B-4940-B31F-DE5A5FA4D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168192B1-A074-4682-95A0-C464697E93C5}
+	EndGlobalSection
+EndGlobal

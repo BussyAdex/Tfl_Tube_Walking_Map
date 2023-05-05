@@ -1,0 +1,12 @@
+﻿Notting Hill Gate, Queensway = 8
+Queensway, Lancaster Gate = 10
+Lancaster Gate, Marble Arch = 15
+Marble Arch, Bond Street = 7
+Bond Street, Oxford Circus = 7
+Oxford Circus, Tottenham Court Road = 9
+Tottenham Court Road, Holborn = 10
+Holborn, Chancery Lane = 8
+Chancery Lane, St. Paul's = 14
+St. Paul's, Bank = 9 
+Bank, Liverpool Street = 10 
+

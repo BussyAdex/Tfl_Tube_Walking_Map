@@ -1,0 +1,16 @@
+Warren Street, Goodge Street = 7
+Goodge Street, Tottenham Court Road = 7
+Tottenham Court Road, Leicester Square = 8 
+Leicester Square, Charing Cross = 7
+Charing Cross, Embankment = 3
+Embankment, Waterloo = 6
+Elephant and Castle, Borough = 13 
+Borough, London Bridge = 9
+London Bridge, Monument = 6
+Monument, Moorgate = 9
+Moorgate, Old Street = 9
+Old Street, Angel = 20
+Angel, King's Cross St.Pancras = 16
+King's Cross St.Pancras, Euston = 12
+
+											
