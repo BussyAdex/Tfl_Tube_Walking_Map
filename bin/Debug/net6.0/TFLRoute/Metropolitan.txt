@@ -1,0 +1,12 @@
+Aldgate, Liverpool Street = 9 
+Liverpool Street, Moorgate = 6
+Moorgate, Barbican = 10 
+Barbican, Farringdon = 8 
+Farringdon, King Cross St Pancras = 26 
+Kings Cross St Pancras, Euston Square = 15 
+Euston Square, Great Portland Street = 10
+Great Portland Street,	Baker Street = 12
+Waterloo, Kennington = 25
+				 			
+
+

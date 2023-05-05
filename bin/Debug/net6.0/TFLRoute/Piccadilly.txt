@@ -1,0 +1,11 @@
+﻿King's Cross St.Pancras, Russell Square = 14
+Russell Square, Holborn = 9
+Holborn, Covent Garden = 8
+Covent Garden, Leicester Square = 4 
+Leicester Square, Piccadilly Circus = 6 
+Piccadilly Circus, Green Park = 8
+Green Park, Hyde Park Corner = 12
+Hyde Park Corner, Knightsbridge = 7 
+Knightsbridge, South Kensington = 17
+
+								

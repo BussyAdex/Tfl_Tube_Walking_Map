@@ -1,0 +1,15 @@
+﻿ElephantandCastle,LambethNorth=18
+LambethNorth,Waterloo=9
+Waterloo,Embankment=6 
+Embankment,CharingCross=3 
+CharingCross,PiccadillyCircus=11 
+PiccadillyCircus,OxfordCircus=12 
+OxfordCircus,RegentsPark=15 
+RegentsPark,BakerStreet=10
+BakerStreet,Marylebone=6 
+Marylebone,EdgewareRoad(BakerlooLine)=7
+EdgwareRoad(BakerlooLine),Paddington=11
+
+									
+
+

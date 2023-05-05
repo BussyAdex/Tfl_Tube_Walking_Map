@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>TfL_Walking_Distance_Version3</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TFLRoute\**" />
+    <EmbeddedResource Remove="TFLRoute\**" />
+    <None Remove="TFLRoute\**" />
+  </ItemGroup>
+
+</Project>

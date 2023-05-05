@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TfL_Walking_Distance-Version3/1.0.0": {
+        "runtime": {
+          "TfL_Walking_Distance-Version3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TfL_Walking_Distance-Version3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
